@@ -36,19 +36,6 @@ Output:  a giraffe in a enclosed area is watched by some people
 Attention: </br>
 a shoe rack with some shoes and a dog sleeping on them </br>
 ![Original Image](result/Original.jpg)
-![Attention_1](result/Attention_1.jpg)
-![Attention_2](result/Attention_2.jpg)
-![Attention_3](result/Attention_3.jpg)
-![Attention_4](result/Attention_4.jpg)
-![Attention_5](result/Attention_5.jpg)
-![Attention_6](result/Attention_6.jpg)
-![Attention_7](result/Attention_7.jpg)
-![Attention_8](result/Attention_8.jpg)
-![Attention_9](result/Attention_9.jpg)
-![Attention_9](result/Attention_10.jpg)
-![Attention_9](result/Attention_11.jpg)
-![Attention_9](result/Attention_12.jpg)
-![Attention_9](result/Attention_13.jpg)
 
 
 ## References:
