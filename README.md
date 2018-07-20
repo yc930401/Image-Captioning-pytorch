@@ -34,7 +34,7 @@ Ground Truth:  a giraffe in a enclosed area is watched by some people
 Output:  a giraffe in a enclosed area is watched by some people
 
 Attention: </br>
-a shoe rack with some shoes and a dog sleeping on them
+a shoe rack with some shoes and a dog sleeping on them </br>
 ![Original Image](result/Original.jpg)
 ![Attention_1](result/Attention_1.jpg)
 ![Attention_2](result/Attention_2.jpg)
