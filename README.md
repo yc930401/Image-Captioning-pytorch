@@ -22,20 +22,20 @@ a conv output as the feature of the image.
 Note: the learning rate should be very low in this case.
 
 ## Result
-Ground Truth:  a shoe rack with some shoes and a dog sleeping on them
-Output:  a shoe rack with some shoes and a dog sleeping on them
-Ground Truth:  the back tire of an old style motorcycle is resting in a metal stand .
-Output:  a white with a white beard and a television
-Ground Truth:  a puppy rests on the street next to a bicycle .
-Output:  a puppy rests on the street next to a bicycle .
-Ground Truth:  bunk bed with a narrow shelf sitting underneath it .
-Output:  bunk bed with a narrow shelf sitting underneath it .
-Ground Truth:  a giraffe in a enclosed area is watched by some people
-Output:  a giraffe in a enclosed area is watched by some people
+Ground Truth:  a shoe rack with some shoes and a dog sleeping on them </br>
+Output:  a shoe rack with some shoes and a dog sleeping on them </br>
+Ground Truth:  the back tire of an old style motorcycle is resting in a metal stand . </br>
+Output:  a white with a white beard and a television </br>
+Ground Truth:  a puppy rests on the street next to a bicycle . </br>
+Output:  a puppy rests on the street next to a bicycle . </br>
+Ground Truth:  bunk bed with a narrow shelf sitting underneath it . </br>
+Output:  bunk bed with a narrow shelf sitting underneath it . </br>
+Ground Truth:  a giraffe in a enclosed area is watched by some people </br>
+Output:  a giraffe in a enclosed area is watched by some people </br>
 
-Attention: </br>
-a shoe rack with some shoes and a dog sleeping on them </br>
+
 ![Original Image](result/Original.jpg)
+a shoe rack with some shoes and a dog sleeping on them </br>
 
 
 ## References:
