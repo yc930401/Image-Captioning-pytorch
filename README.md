@@ -18,8 +18,11 @@ a conv output as the feature of the image.
 2. Load a pre-trained vgg-19 model
 3. Build an attention decoder with GRU
 4. Train the model with or without teacher forcing
-5. Evaluate the model and visualize attention
-Note: the learning rate should be very low in this case.
+5. Evaluate the model and visualize attention </br>
+Note: 
+1. I am not able to upload the encoder because it's very large
+2. The learning rate should be very low in this case, I tried from 0.01 to 0.00000001, the best range is between 0.00001 and 0.00000001.
+
 
 ## Result
 Ground Truth:  a shoe rack with some shoes and a dog sleeping on them </br>
